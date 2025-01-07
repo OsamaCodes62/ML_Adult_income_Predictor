@@ -42,7 +42,7 @@ The project relies on the following Python libraries:
 ---
 
 ### Usage
-1. **Install Dependencies**: Use the `requirements.txt` file to install necessary libraries:
+1. **Install Dependencies**: Use the `requirements.txt` file to install the necessary libraries:
    ```bash
    pip install -r requirements.txt
    ```
