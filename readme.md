@@ -51,13 +51,6 @@ The project relies on the following Python libraries:
 
 ---
 
-### Folder Structure
-- **`data/`**: Contains the `adult.csv` dataset.
-- **`notebooks/`**: Includes the Jupyter Notebook for preprocessing, training, and analysis.
-- **`requirements.txt`**: Specifies project dependencies.
-
----
-
 ### Future Enhancements
 - Include advanced feature engineering techniques.
 - Experiment with additional machine learning models.
